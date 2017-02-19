@@ -3,4 +3,4 @@ LaTeX raw files for papers, as well as .pdf renders. Can download the raw files 
 
 ## Contents
 * Semi-empirical mass formula (SEMF)
-** Comparison of proposed "valley of stability" to true minimum mass given by SEMF.
+  Comparison of proposed "valley of stability" to true minimum mass given by SEMF.
